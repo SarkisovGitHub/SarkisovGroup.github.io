@@ -21,7 +21,7 @@ user:
   name: Sarkisov Group
   pic: /TOC.png
   picAlt: "MOF"
-  job: The University of Manchester
+  job: "The University of Manchester"
   aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
