@@ -1,6 +1,6 @@
 ---
 title: People 
-categories: [writing]
+layout: info
 ---
 
 ## PI: 
