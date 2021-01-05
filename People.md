@@ -1,5 +1,6 @@
 ---
-layout: info
+layout: post
+comment: true
 ---
 
 ## PI: 
