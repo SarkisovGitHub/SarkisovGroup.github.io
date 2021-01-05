@@ -1,5 +1,5 @@
 ---
-layout: info
+layout: page
 ---
 
 # People in the group
