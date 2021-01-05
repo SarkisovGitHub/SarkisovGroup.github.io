@@ -1,3 +1,7 @@
+---
+layout: info
+---
+
 # People in the group
 
 ## PI: 
