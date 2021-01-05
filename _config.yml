@@ -30,12 +30,12 @@ exclude:
   - github
 
 defaults:
-  - scope:
-      path: "_posts"
-      type: posts
-    values:
-      layout: post
-      comment: true   
+#  - scope:
+#      path: "_posts"
+#      type: posts
+#    values:
+#      layout: post
+#      comment: true   
 
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 markdown: kramdown 
