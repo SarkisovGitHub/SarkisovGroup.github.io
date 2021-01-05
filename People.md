@@ -1,8 +1,7 @@
 ---
-layout: page
+title: People 
+categories: [writing]
 ---
-
-# People in the group
 
 ## PI: 
 Professor Lev Sarkisov
