@@ -1,6 +1,6 @@
 ---
 Title: Group members
-categories: [info]
+categories: [writing]
 comment: true
 ---
 
