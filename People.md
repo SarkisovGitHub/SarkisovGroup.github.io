@@ -5,7 +5,6 @@ comment: true
 ---
 
 ## Group Members
-## PI:
 Professor Lev Sarkisov
 
 ## Postdoctoral Researchers:
