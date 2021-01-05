@@ -1,6 +1,6 @@
 ---
 title: Hello
-layout: page
+layout: post
 comments: true
 ---
 
