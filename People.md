@@ -1,5 +1,5 @@
 ---
-layout: page
+category: [dev]
 ---
 
 Hello
