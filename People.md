@@ -1,6 +1,6 @@
 ---
 Title: Group members
-categories: [dev]
+categories: [writing]
 comment: true
 ---
 ## PI
