@@ -1,6 +1,6 @@
 ---
 Title: Group members
-layout: post
+categories: [dev]
 comment: true
 ---
 
