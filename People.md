@@ -1,10 +1,11 @@
 ---
 Title: Group members
-categories: [writing]
+categories: [dev]
 comment: true
 ---
 
-## PI: 
+## Group Members
+## PI:
 Professor Lev Sarkisov
 
 ## Postdoctoral Researchers:
