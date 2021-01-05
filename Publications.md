@@ -7,7 +7,7 @@ layout: standard
 Please, find the list of our publications here:
 <a href="https://scholar.google.co.uk/citations?user=hrSdliYAAAAJ&hl=en">Google Scholar</a><br>
 and <br>
-here <a href="https://www.researchgate.net/profile/Lev_Sarkisov">ResearchGate</a>)<br>
+here: <a href="https://www.researchgate.net/profile/Lev_Sarkisov">ResearchGate</a><br>
 
 
 <hr>
