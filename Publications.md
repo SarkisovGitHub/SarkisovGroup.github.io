@@ -13,5 +13,5 @@ and
 <hr>
 # Highlights
 <a>
-  <img src="cube_test4sm.bmp" alt="IRMOF-1">
+  <img src="cube_test4sm.bmp" alt="IRMOF-1" width="180" height="180">
 </a>
