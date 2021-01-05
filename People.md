@@ -1,6 +1,7 @@
 ---
 title: Hello
 layout: page
+comments: true
 ---
 
 111
