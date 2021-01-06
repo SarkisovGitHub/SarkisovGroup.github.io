@@ -4,7 +4,7 @@ layout: standard
 ---
 
 ## Principal Investigator:
-Professor Lev Sarkisov
+Professor Lev Sarkisov, Lev.Sarkisov@manchester.ac.uk
 
 ## Postdoctoral Researchers:
 Dr Amir Farmahini
