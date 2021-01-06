@@ -9,7 +9,7 @@ In Sarkisov Group we adhere to the principles of open source codes, as a vital e
 <br>
 <br>
 Our codes can be found on the group github:
-<a href="https://github.com/SarkisovGroup=en">SarkisovGroup</a>, including:
+<a href="https://github.com/SarkisovGroup">SarkisovGroup</a>, including:
 <br>
 * PoreBlazer (PB v4.0)
 * GCMCbenchmarks
