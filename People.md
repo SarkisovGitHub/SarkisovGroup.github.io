@@ -7,7 +7,8 @@ layout: standard
 Professor Lev Sarkisov, Lev.Sarkisov@manchester.ac.uk
 
 ## Postdoctoral Researchers:
-Dr Amir Farmahini
+Dr Amir Farmahini <br>
+Dr Joe Manning
 
 ## PhD Students:
 Dmitry Lapshin (The University of Edinburgh) <br>
