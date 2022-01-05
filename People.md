@@ -8,8 +8,8 @@ Professor Lev Sarkisov, Lev.Sarkisov@manchester.ac.uk
 
 ## Postdoctoral Researchers:
 Dr Amir Farmahini <br>
-Dr Joe Manning
-Dr Arun Gopalan
+Dr Joe Manning <br>
+Dr Arun Gopalan <br>
 
 ## PhD Students:
 Tianmu (Tim) Yuan <br>
@@ -17,8 +17,8 @@ Conor Cleeton <br>
 Zijun Deng <br>
 
 ## Undergraduate students and visitors
-Alexander Raw
-Farid Bin Mohamad
+Alexander Raw <br>
+Farid Bin Mohamad <br>
 
 <hr>
 
