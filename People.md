@@ -9,14 +9,16 @@ Professor Lev Sarkisov, Lev.Sarkisov@manchester.ac.uk
 ## Postdoctoral Researchers:
 Dr Amir Farmahini <br>
 Dr Joe Manning
+Dr Arun Gopalan
 
 ## PhD Students:
-Dmitry Lapshin (The University of Edinburgh) <br>
 Tianmu (Tim) Yuan <br>
 Conor Cleeton <br>
+Zijun Deng <br>
 
 ## Undergraduate students and visitors
-Khalid Limbada
+Alexander Raw
+Farid Bin Mohamad
 
 <hr>
 
@@ -34,6 +36,8 @@ Dr. Richard Gowers, 2017-2018 <br>
 Dr. Carmelo Herdes, 2007-2008 <br>
 
 ### PhD students
+Dmitry Lapshin, PhD 2021 <br>
+Odin Kvam, PhD 2020 <br>
 Alex Harrison, PhD 2015 <br>
 Emanuela Di Biase, PhD 2015 <br>
 Eduardo Dourado, PhD 2011 <br> 
@@ -41,4 +45,4 @@ Paraskevi Gkeka, PhD 2010 <br>
 Jose Pinto da Costa, PhD 2009 <br>
 
 ### Undergraduate and MSc students
-Sam Griffiths, Sirawit Kunapongsiri, Stephanos Constandinou, Yiliyaer Tuerxun, Ellen Frost, Xinqi (Aimee) Wang, Jack Speakman, Alastair Mackay, Astrid Stroobants, Samir Diab, Cecilia Bores-Quijano, Yiran Tang, Angela Barone, Alessia Centi, Luigia Zazzara, Luis Vilchez-Cuesta, Lewis Dunnigan, Calum Costello, Andy Peet, Matthew Lennox, Conor Taggart, Susie Fantom, Reinhold Sporl, Alistair Telford, Kieran Findlay, Jenny Wilson, Sue Mei
+Khalid Limbada, Sam Griffiths, Sirawit Kunapongsiri, Stephanos Constandinou, Yiliyaer Tuerxun, Ellen Frost, Xinqi (Aimee) Wang, Jack Speakman, Alastair Mackay, Astrid Stroobants, Samir Diab, Cecilia Bores-Quijano, Yiran Tang, Angela Barone, Alessia Centi, Luigia Zazzara, Luis Vilchez-Cuesta, Lewis Dunnigan, Calum Costello, Andy Peet, Matthew Lennox, Conor Taggart, Susie Fantom, Reinhold Sporl, Alistair Telford, Kieran Findlay, Jenny Wilson, Sue Mei
